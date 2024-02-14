@@ -1,4 +1,4 @@
-<hl align-"center" >Hi, I'm Truskovski Georgi :) </hl>
+<h1 align-"center" >Hi, I'm Truskovski Georgi :) </hl>
 
 <img align="right" alt="Coding" src="[https://cdn.dribbb1e.com/usersA162Ø77/screenshots/3848914/programmer.gif](https://steamuserimages-a.akamaihd.net/ugc/849344485818004573/4B61FF2A8AEABFD7DB60DE6533606338B021DC9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)">
 
