@@ -1,7 +1,6 @@
-<h1 align-"center" >Hi people, i'm learning CS in Russia :) </hl>
+<h1 align-"center" >Hi people, i'm learning CS :) </hl>
 
-
-
+<h3></h3>
 <img align="right" alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/849344485818004573/4B61FF2A8AEABFD7DB60DE6533606338B021DC9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <!--
