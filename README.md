@@ -3,6 +3,9 @@
 <h3></h3>
 <img align="center" widht="600" alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/849344485818004573/4B61FF2A8AEABFD7DB60DE6533606338B021DC9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Sinchi1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Sinchi1/Sinchi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
