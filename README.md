@@ -1,7 +1,7 @@
  <h2 align-"center" > Welcome, wanderer +_< </h2> 
 
 <h3></h3>
-<img align="center" widht="600" alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/849344485818004573/4B61FF2A8AEABFD7DB60DE6533606338B021DC9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" widht="600" alt="Coding" src="https://media1.tenor.com/m/g_gnzkpLthUAAAAC/felix-crying.gif/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchi1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
